@@ -11,8 +11,8 @@ import (
 	"errors"
 	"fmt"
 
-	"github.com/syndtr/goleveldb/leveldb/storage"
-	"github.com/syndtr/goleveldb/leveldb/util"
+	"github.com/yiyanwannian/goleveldb/leveldb/storage"
+	"github.com/yiyanwannian/goleveldb/leveldb/util"
 )
 
 // Common errors.
